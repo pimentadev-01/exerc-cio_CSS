@@ -1,0 +1,17 @@
+body {
+  background-color: black;
+  color: blueviolet;
+}
+
+.botao {
+  background-color: greenyellow;
+
+  seletor {
+    propriedade;
+    valor;
+  }
+}
+
+#cadastro_nome {
+  color: blue
+}
